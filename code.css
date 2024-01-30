@@ -1,0 +1,23 @@
+.container{
+    background-color:aliceblue;
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    border:50px;
+    border-radius: 3px;
+}
+.heading{
+    color:brown;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.butn{
+    margin:10px;
+    text-align: center;
+    justify-content: center;
+    color:blueviolet;
+    background-color: beige;
+}
